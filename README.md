@@ -73,6 +73,13 @@ The hackathon included the following activities:
 4. **Access the Application:**
    - Open the provided URL in your web browser to interact with the application.
 
+### Image Screenshots of Output
+
+![image](https://github.com/StarLord598/Snowflake_May_2024_Hackathon/assets/41198155/cfa9d0ec-344b-44c4-85d8-44e83124e01d)
+
+![image](https://github.com/StarLord598/Snowflake_May_2024_Hackathon/assets/41198155/84282906-507b-448d-98c2-75f6c9455d61)
+
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
